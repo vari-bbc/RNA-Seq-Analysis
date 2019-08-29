@@ -1,3 +1,5 @@
 [submodule "submodules/RNA-Seq-Toolkit"]
 	path = submodules/RNA-Seq-Toolkit
 	url = git@github.com:sgivan/RNA-Seq-Toolkit.git
+[submodules "RNA-Seq-Toolkit"]
+	branch = FirstPBS
